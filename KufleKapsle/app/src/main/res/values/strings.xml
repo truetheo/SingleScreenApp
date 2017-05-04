@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kufle i Kapsle InfoApp</string>
+    <string name="barName">Kufle i Kapsle</string>
+    <string name="description">Craft beer pub located in the center of Warsaw. Best beers from polish, european and american craft brewers. Come and taste beers from 16 taps!</string>
+    <string name="address">Nowogrodzka 25, 00-511 Warsaw</string>
+    <string name="phone">+48 22 127 72 18</string>
+    <string name="hours">Mon-Fri 2pm-2am, Sat 12am-4am, Sun 2am-12pm</string>
+    <string name="domain">www.kufleikapsle.pl</string>
+</resources>
